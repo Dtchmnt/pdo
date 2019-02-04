@@ -4,6 +4,7 @@ class DataBase
 {
     public $connect;
     protected $database;
+
     /**
      * DataBase constructor.
      * @param string $user

@@ -16,7 +16,4 @@ try {
     }
 } catch (Exception $e) {
 }
-
-
-
-
+$db->disconnect();
